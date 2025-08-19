@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Customer Churn Prediction",
+    "subtitle": "Predict if a customer will leave the company",
+    "Category": "Data Science",
+    "imgpath": ["/images/CustomChurn.png"],
+    "Date": "2024-07-01",
+    "github": "https://github.com/MohamedNHagag/End_To_End_ML_CustumerChurn.git"
+  },
+  {
+    "id": 2,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 3,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 4,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 5,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 6,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 7,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 8,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
+  {
+    "id": 9,
+    "title": "Gold Price Forecasting",
+    "subtitle": "Time-Series forecasting model for gold prices",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
+    "Date": "2024-06-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+]
