@@ -3,8 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./component/1-header/Header";
 import Hero from "./component/2-hero/Hero";
 import Main from "./component/3-main/Main";
-import Contact from "./component/4-contact/Contact";
-import Footer from "./component/5-footer/Footer";
+import Certificates from "./component/4-Certificates/Certificates";
+import Contact from "./component/5-contact/Contact";
+import Footer from "./component/6-footer/Footer";
 import ProjectDetails from "./component/3-main/ProjectDetails/ProjectDetails";
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
@@ -34,6 +35,8 @@ function App() {
                 <Hero />
                 <div className="divider" />
                 <Main />
+                <div className="divider" />
+                <Certificates /> 
                 <div className="divider" />
                 <Contact />
                 <div className="divider" />

@@ -24,6 +24,7 @@ function Header() {
     { label: "About", href: "/#" },
     { label: "Articles", href: "/#" },
     { label: "Projects", href: "/#main" },
+    { label: "Certificates", href: "/#certificates" },
     { label: "Contact", href: "/#contact" },
   ];
 

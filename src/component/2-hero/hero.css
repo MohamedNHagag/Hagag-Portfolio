@@ -66,7 +66,7 @@ section.hero .icons {
 section.hero .icon {
 
   color: var(--title) !important;
- 
+
 }
 
 section.hero .icon:hover {
@@ -75,6 +75,61 @@ section.hero .icon:hover {
   cursor: pointer;
   font-size: 35px;
 }
+
+.icon-download-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--title);
+  font-size: 0.8rem;
+}
+
+/* السهم المضموم للأسفل */
+/* العنصر الخارجي للحركة */
+.icon-download-arrow {
+  padding-bottom: 10px;
+  width: 12px;
+  height: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: bounce 2s infinite ease-in-out; /* 👈 الحركة لأعلى ولأسفل */
+}
+
+/* العنصر الداخلي لشكل السهم */
+.icon-download-arrow::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  border-left: 3px solid var(--title);
+  border-bottom: 3px solid var(--title);
+  transform: rotate(-45deg); /* 👈 ده الشكل فقط */
+}
+
+/* حركة عمودية ناعمة */
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(6px);
+  }
+}
+
+/* عند hover */
+.icon-download-wrapper:hover .icon-download-arrow {
+  border-color: var(--icon-hover);
+}
+
+.icon-download-wrapper:hover .cv-text {
+  color: var(--icon-hover);
+}
+
+
+
 
 /* 
 ===============================================
@@ -92,3 +147,60 @@ section.hero .animation {
     display: none;
   }
 }
+
+
+.cv-menu-wrapper {
+  position: relative;
+}
+
+.cv-dropdown {
+  position: absolute;
+  top: 40px;
+  left: -10px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  z-index: 999;
+}
+
+.cv-dropdown a {
+  text-decoration: none;
+  color: var(--title);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
+.cv-dropdown a:hover {
+  color: var(--icon-hover);
+}
+
+
+
+
+
+
+/* اظهار المينيو عن طريق class فقط */
+.cv-dropdown {
+  display: none;
+  position: absolute;
+  top: 40px;
+  left: -10px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  z-index: 999;
+}
+
+.cv-dropdown.show {
+  display: flex; /* flex مش block علشان العناصر تبقى تحت بعض */
+}
+

@@ -13,6 +13,9 @@ function Footer() {
           <a href="#">Projects</a>
         </li>
         <li>
+          <a href="#certificates">Certificates</a>
+        </li>
+        <li>
           <a href="#">Speaking</a>
         </li>
         <li>

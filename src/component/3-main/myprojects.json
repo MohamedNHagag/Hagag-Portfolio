@@ -1,90 +1,97 @@
 [
   {
     "id": 1,
-    "title": "Customer Churn Prediction",
-    "subtitle": "Predict if a customer will leave the company",
-    "Category": "Data Science",
-    "imgpath": ["/images/CustomChurn.png"],
-    "Date": "2024-07-01",
-    "github": "https://github.com/MohamedNHagag/End_To_End_ML_CustumerChurn.git"
-  },
+    "title": "Tiktok Review Sentiment Analysis",
+    "subtitle": "Analyzed user feedback and visualized sentiment trends using Power BI and Python.",
+    "Category": "Data Analysis",
+    "imgpath": ["/public/images/Tiktok.jpg"],
+    "Date": "2025-01-12",
+    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  }
+  ,
   {
     "id": 2,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "Supermarket Sales Dashboard",
+    "subtitle": "Created interactive dashboards to monitor supermarket sales performance.",
+    "Category": "Data Analysis",
+    "imgpath": ["/public/images/SupermarketOrders.jpg"],
+    "Date": "2025-01-20",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
-  }
-  ,
+  }  ,
   {
     "id": 3,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "Superstore Sales Analysis with Power BI & Python",
+    "subtitle": "Created dynamic dashboards to monitor sales performance using Power BI and Python.",
+    "Category": "Data Analysis",
+    "imgpath": ["/public/images/Superstore.jpg"],
+    "Date": "2025-01-25",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
-  }
-  ,
+  }  ,
   {
     "id": 4,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "Pizza Sales Analysis",
+    "subtitle": "Cleaned, transformed, and visualized data using interactive Power BI dashboards.",
+    "Category": "Data Analysis",
+    "imgpath": ["/public/images/pizza.jpg"],
+    "Date": "2025-03-12",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
-  }
-  ,
+  }  ,
   {
     "id": 5,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "Car Theft in India",
+    "subtitle": "Created interactive dashboards to find Car Theft in India",
+    "Category": "Data Analysis",
+    "imgpath": ["/public/images/CarsTheft.jpg"],
+    "Date": "2025-03-17",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
   }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ,
   {
     "id": 6,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "E-commerce",
+    "subtitle": "Your ideal destination for finding the best products at the best prices. We offer a carefully selected collection that combines quality and value to meet and exceed your expectations.r BI and Python.",
+    "Category": "FrontEnd",
+    "imgpath": ["/public/images/e-commerce.png"],
+    "Date": "2024-07-17",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
-  }
-  ,
+  },
   {
     "id": 7,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "Kasper",
+    "subtitle": "Kickstart your next project with the Kasper website template! We offer a modern and attractive design and a flexible, fully customizable structure to suit a variety of projects. Enjoy an intuitive and elegant user experience that will impress your visitors.",
+    "Category": "FrontEnd",
+    "imgpath": ["/public/images/Kasper.png"],
+    "Date": "2025-06-14",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
-  }
-  ,
+  },
   {
     "id": 8,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
-    "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
-  }
-  ,
-  {
-    "id": 9,
-    "title": "Gold Price Forecasting",
-    "subtitle": "Time-Series forecasting model for gold prices",
-    "Category": "Machine Learning & Deep Learning",
-    "imgpath": ["/images/shutterstock-2452693763-2024-07-fc2d39e9d466e3fd811c32b01532ce6f-1536x1140.jpg"],
-    "Date": "2024-06-12",
+    "title": "Templet",
+    "subtitle": "A responsive website built from scratch using HTML and CSS Focused on clean layout, modern design, and mobile-first responsiveness.",
+    "Category": "FrontEnd",
+    "imgpath": ["/public/images/Templet.png"],
+    "Date": "2025-03-17",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
   }
 ]
