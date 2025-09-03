@@ -93,5 +93,23 @@
     "imgpath": ["/public/images/Templet.png"],
     "Date": "2025-03-17",
     "github": "https://github.com/MohamedNHagag/gold_price_ML.git"
+  },
+  {
+    "id": 9,
+    "title": "🧠 Parkinson's Disease Prediction - End-to-End ML Project",
+    "subtitle": "Built a complete machine learning pipeline to predict Parkinson's Disease from biomedical voice data, covering data preprocessing, model training and evaluation, and deployment through a Streamlit web app.",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/public/images/parkinsons.jpg"],
+    "Date": "2025-03-17",
+    "github": "https://github.com/MohamedNHagag/parkinsons_END_TO_END_ML.git"
+  }  ,
+  {
+    "id": 10,
+    "title": "Customer Churn Prediction - End-to-End ML Project",
+    "subtitle": "Developed a machine learning model to predict customer churn using Python, Scikit-learn, and Streamlit for deployment.",
+    "Category": "Machine Learning & Deep Learning",
+    "imgpath": ["/public/images/customerchurn.png"],
+    "Date": "2025-03-17",
+    "github": "https://github.com/MohamedNHagag/End_To_End_ML_CustumerChurn.git"
   }
-]
+  ]

@@ -370,3 +370,13 @@
     font-size: 1.25rem;
   }
 }
+
+
+.toggle-btn1 {
+  color: #fff;
+  
+}
+
+.light .toggle-btn1 {
+  color: #000;   
+}

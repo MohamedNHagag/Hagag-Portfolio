@@ -75,6 +75,7 @@ function Main() {
         </div>
         {filteredProjects.length > 6 && (
           <motion.button
+                    className="toggle-btn1"
                     onClick={() => setExpanded(!expanded)}
                     whileHover={{
                       scale: 1.02,

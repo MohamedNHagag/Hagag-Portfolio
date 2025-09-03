@@ -6,17 +6,22 @@ const certificates = [
   {
     title: "GDG Certificate",
     img: "/public/images/GDG.jpeg",
-    description: "Attended GDG Cairo event and completed hands-on workshop.",
+    description: "Attended GDG Benha event and completed Exploratory Data Analysis (EDA), Feature Engineering & Data Preprocessing, Machine Learning, Model Deployment, SQL and Power BI.",
   },
   {
-    title: "NTI Certificate",
-    img: "/public/images/British_Airways_realData.jpg",
-    description: "Completed NTI training program.",
+    title: "NTI Summer Training – Machine Learning",
+    img: "/public/images/NTI.png",
+    description: "intensive summer training program at NTI, where I learned hands-on experience in core ML concepts, practical applications, and freelancing skills. During the training, I developed an end-to-end ML project starting from Ingestion Data, data preprocessing to model training, evaluation, and deployment. The program also enhanced my soft skills, particularly communication, presentation, teamwork, collaboration, problem-solving, critical thinking, and time management.",
+  },
+   {
+    title: "nVIDIA Deep learning Certificate",
+    img: "/public/images/nVIDIA.png",
+    description: "Completed the NVIDIA Deep Learning Institute's Fundamentals of Deep Learning for Computer Vision course, gaining practical experience in building and deploying deep learning models for image classification tasks using popular frameworks like TensorFlow and PyTorch. This certification has enhanced my understanding of deep learning concepts and their applications in computer vision.",
   },
   {
     title: "British Airways RealData Certificate",
     img: "/public/images/British_Airways_realData.jpg",
-    description: "Worked on real data project with British Airways dataset.",
+    description: "the British Airways Data Science Virtual Experience on Forage, working on real airline booking data to understand customer behavior and booking decisions. The project covered the full end-to-end pipeline: starting with EDA and visualization, applying data cleaning and preprocessing, training and evaluating classification models, and finally deploying the best model with Streamlit. This experience enhanced my skills in data analysis, machine learning, and model deployment.",
   },
 ];
 

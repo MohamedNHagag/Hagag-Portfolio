@@ -119,7 +119,7 @@ function Hero() {
               </div>
 
               <div className={`cv-dropdown ${open ? "show" : ""}`}>
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="https://flowcv.com/resume/2fd6kehpc42h" target="_blank" rel="noopener noreferrer">
                   View CV
                 </a>
                 <a href="https://drive.google.com/uc?export=download&id=1zjn3jkuMujBikiwUnRg_BQT05nGACv0r" download>
